@@ -76,7 +76,7 @@ require (
 	github.com/Masterminds/semver v1.3.1 // indirect
 	github.com/Masterminds/sprig v2.17.1+incompatible
 	github.com/aokoli/goutils v1.0.1 // indirect
-	github.com/aws/aws-sdk-go v1.23.0
+	github.com/aws/aws-sdk-go v1.34.0
 	github.com/bazelbuild/bazel-gazelle v0.18.2-0.20190823151146-67c9ddf12d8a
 	github.com/blang/semver v3.5.0+incompatible
 	github.com/chai2010/gettext-go v0.0.0-20170215093142-bf70f2a70fb1 // indirect
@@ -103,7 +103,7 @@ require (
 	github.com/miekg/dns v0.0.0-20160614162101-5d001d020961
 	github.com/mitchellh/mapstructure v1.1.2
 	github.com/pborman/uuid v1.2.0
-	github.com/pkg/errors v0.8.0
+	github.com/pkg/errors v0.9.1
 	github.com/pkg/sftp v0.0.0-20160930220758-4d0e916071f6
 	github.com/prometheus/client_golang v0.9.2
 	github.com/sergi/go-diff v0.0.0-20161102184045-552b4e9bbdca
@@ -111,7 +111,7 @@ require (
 	github.com/spf13/pflag v1.0.1
 	github.com/spf13/viper v0.0.0-20160820190039-7fb2782df3d8
 	github.com/spotinst/spotinst-sdk-go v0.0.0-20190505130751-eb52d7ac273c
-	github.com/stretchr/testify v1.3.0
+	github.com/stretchr/testify v1.5.1
 	github.com/urfave/cli v1.20.0
 	github.com/vmware/govmomi v0.20.1
 	github.com/weaveworks/mesh v0.0.0-20170419100114-1f158d31de55
@@ -119,7 +119,7 @@ require (
 	go.uber.org/multierr v1.1.0 // indirect
 	go.uber.org/zap v1.8.0
 	golang.org/x/crypto v0.0.0-20190308221718-c2843e01d9a2
-	golang.org/x/net v0.0.0-20190812203447-cdfb69ac37fc
+	golang.org/x/net v0.0.0-20200202094626-16171245cfb2
 	golang.org/x/oauth2 v0.0.0-20190402181905-9f3314589c9a
 	golang.org/x/time v0.0.0-20180412165947-fbb02b2291d2 // indirect
 	google.golang.org/api v0.0.0-20181220000619-583d854617af
